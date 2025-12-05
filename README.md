@@ -1,1 +1,1 @@
-# Baby Names: CS216 Final Project
+# CS216 Final Project: Modeling and Forecasting Common Baby Names 
